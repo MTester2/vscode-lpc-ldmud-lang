@@ -1,19 +1,19 @@
 {
   "name": "vscode-lpc-lang",
-  "displayName": "LPC Language",
-  "description": "LPmud C Language syntax highlighting for the FLUFFOS branch of LPmud drivers.",
+  "displayName": "LDMud LPC Language",
+  "description": "LDmud LPC Language syntax highlighting for Visual Studio Code.",
   "version": "0.1.0",
-  "publisher": "undeadfish",
+  "publisher": "mtester2",
   "engines": {
     "vscode": "^1.16.0"
   },
   "categories": [
     "Programming Languages"
   ],
-  "homepage": "https://github.com/undeadfish/vscode-lpc-lang/blob/master/README.md",
+  "homepage": "https://github.com/MTester2/vscode-lpc-ldmud-lang/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/undeadfish/vscode-lpc-lang.git"
+    "url": "https://github.com/MTester2/vscode-lpc-ldmud-lang.git"
   },
   "contributes": {
     "languages": [{
